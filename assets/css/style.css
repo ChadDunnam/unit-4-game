@@ -1,0 +1,69 @@
+body {
+	background-image: url("../images/crystalbackground.jpg");
+	margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    text-align: left;
+	background-color: rgb(255, 145, 0);
+    color: white;
+    margin: 5px;
+    width: 310px;
+    height: 90px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.instructions {
+    text-align: left;
+    background-color: rgba(253, 253, 142, 0.637);
+    width: 390px;
+    margin-left: -50%;
+    color: rgba(38, 107, 24, 0.637);
+    height: 350px; 
+    opacity: 1;
+}
+    
+
+.target-number {
+	font-size: 30px;
+	background-color: rgb(22, 163, 109);
+    margin: 5px;
+    width: 190px;
+    height: 90px;
+    margin-left: -14.5%;
+    
+    
+}
+
+.win-lose-counter {
+	background-color: rgb(116, 165, 238);
+    width: 100px;
+    height: 90px;
+    margin: 5px;
+}
+
+.crystal-img {
+    margin-left: -15.8%;
+    display: block;
+    
+}
+
+.total-score {
+	color: white;
+    background-color: #4aaaa5;
+    margin-top: 5px;
+    margin-left: -14.5%;
+    width: 200px;
+}
+
+.score-number {
+	color: white;
+	background-color: #4aaaa5;
+    font-size: 30px;
+    margin-top: 5px;
+    margin-left: -14.5%;
+    height: 100px;
+    width: 200px;
+}
